@@ -160,7 +160,7 @@ Para executar a aplicação, é necessário ter:
 ### 2. Clonar o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/SafeSlope/gs_python
 ```
 
 Entre na pasta do projeto:
