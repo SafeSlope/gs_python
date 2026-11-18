@@ -166,7 +166,7 @@ git clone https://github.com/SafeSlope/gs_python
 Entre na pasta do projeto:
 
 ```bash
-cd SafeSlope
+cd gs_python
 ```
 
 ### 3. Executar a aplicação
