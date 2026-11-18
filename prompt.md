@@ -5,7 +5,7 @@
 
 ## 1. Ferramenta de IA utilizada
 
-- **Ferramenta:** assistente de IA conversacional.
+- **Ferramenta:** Claude Code | ChatGPT.
 - **Finalidade:** apoiar a compreensão dos requisitos, discutir decisões de implementação, revisar regras de negócio e sugerir cenários de teste.
 - **Responsabilidade do grupo:** avaliar as sugestões, conferir sua compatibilidade com o código e com o enunciado da atividade, executar o programa e decidir quais alterações serão incorporadas.
 
