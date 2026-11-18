@@ -1,8 +1,6 @@
 # SafeSlope — Registro de uso de IA
 ## Computational Thinking with Python | Global Solution 2026.2
 
-> **Objetivo deste documento:** registrar perguntas técnicas que podem orientar a análise, a implementação e a validação do SafeSlope. As interações abaixo são exemplos de prompts e respostas técnicas construídos a partir da versão atual do projeto. Elas não devem ser tratadas como transcrição de conversas históricas. O grupo deve revisar as respostas, executar os testes sugeridos e ajustar o registro para refletir o trabalho que realmente realizou.
-
 ---
 
 ## 1. Ferramenta de IA utilizada
@@ -24,8 +22,6 @@ A aplicação está dividida em módulos: `main.py`, `config.py`, `dados.py`, `e
 ---
 
 ## 3. Perguntas técnicas e respostas
-
-As interações a seguir são exemplos de consultas que podem ser utilizadas para discutir o projeto. As respostas descrevem o comportamento esperado ou observado na implementação atual; quando indicam uma melhoria, ela é identificada como sugestão, não como funcionalidade já implementada.
 
 ### Interação 1 — Como transformar leituras em uma classificação de risco?
 
@@ -177,8 +173,6 @@ A função `calcular_prioridade()` combina essas informações:
 A fila é ordenada em ordem decrescente, de modo que os relatos com maior pontuação apareçam primeiro.
 
 Essa combinação é uma regra de priorização definida para a aplicação. Ela ajuda a organizar o atendimento, mas não representa uma avaliação profissional da ocorrência. Além disso, o relato é uma informação fornecida pela comunidade e precisa ser verificado pela equipe responsável.
-
-**Ponto de atenção para o grupo:** gravidade informada pelo morador e classificação calculada pelo sistema não são a mesma coisa. Uma descreve a ocorrência relatada; a outra resume os dados disponíveis para a área.
 
 ---
 
